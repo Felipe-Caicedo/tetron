@@ -1,2 +1,2 @@
-# tetron
-Godot Tetris
+# Tetron
+Tetris Using the Godot Engine
